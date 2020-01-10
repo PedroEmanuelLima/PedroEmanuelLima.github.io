@@ -7,5 +7,4 @@ Eu tinha esquecido o que ia falar.
 
 ##Existe um arquivo com as linguagens que eu programo
 
-As minhas esperimentações
- 1eyy53gthj7e.
+asweegerg
