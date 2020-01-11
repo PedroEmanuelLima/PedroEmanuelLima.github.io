@@ -1,5 +1,6 @@
 #Este é o meu primeiro repositório git
 meu nome é Pedro Emanuel
+Minha profição é de desenvolvedor web
 
 Aqui nesse repositório colocarei meu portfolio de desenvovendor.
 
