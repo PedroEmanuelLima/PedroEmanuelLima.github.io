@@ -1,6 +1,6 @@
-#Listas das lingagem que programo
+# Listas das lingagem que programo
 
-python
-java
-javaScript
-C
+- python
+- java
+- javaScript
+- C
