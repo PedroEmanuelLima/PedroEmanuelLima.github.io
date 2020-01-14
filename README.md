@@ -1,13 +1,14 @@
-# Este é o meu primeiro repositório git
+# Pedro Emanuel Lima
 
-meu nome é Pedro Emanuel
-Minha profição é de desenvolvedor web
+## Sobre
 
-Aqui nesse repositório colocarei meu portfolio de desenvovendor.
+Olá, eu sou o Pedro Emanuel e adoro Git e GitHub.
 
-Agora eu quero falar mais sobre mim, ...
-Eu tinha esquecido o que ia falar.
+Acesse meu Linkedin [aqui](https://www.linkedin.com/in/pedro-emanuel-lima-de-almeida-b39a9019b/)
 
-##Existe um arquivo com as linguagens que eu programo
+## Cursos que possuo certificado
 
-Quero testar se estou conseguindo enviar ao GitHub
+- Curso de programação Básica
+- Curso de Marca Pessoal
+-
+-
