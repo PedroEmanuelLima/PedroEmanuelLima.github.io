@@ -1,12 +1,28 @@
-# Este é o meu primeiro repositório git
-meu nome é Pedro Emanuel
-Minha profição é de desenvolvedor web
+# Pedro Emanuel Lima
 
-Aqui nesse repositório colocarei meu portfolio de desenvovendor.
+## Sobre
 
-Agora eu quero falar mais sobre mim, ...
-Eu tinha esquecido o que ia falar.
+Olá, eu sou o **Pedro Emanuel** e adoro _Git_ e _GitHub_.
 
-# Existe um arquivo com as linguagens que eu programo
 
-Quero testar se estou conseguindo enviar ao GitHub
+Acesse meu Linkedin [aqui](https://www.linkedin.com/in/pedro-emanuel-lima-de-almeida-b39a9019b/)
+
+## Cursos que possuo certificado
+
+- Curso de programação Básica
+- Curso de Marca Pessoal
+
+## Liguagens de programação que gosto
+
+### Python
+
+A linguagem de programação que tenho mais afinidade, estou estudando essa liguagem a um ano, e já desenvolvi alguns sistemas exclusivamente com tal.
+
+## C
+
+Liguagem na qual uso para estudar Estrutura de Dados, acho a inguagem bastante interessante e possuo conhecimntos em diversos comandos.
+
+### JavaScript
+
+Não estou muito familiarizado com essa linguagem, visto que estou me embasando em sua semãntica e sintaxe recentemente.
+
