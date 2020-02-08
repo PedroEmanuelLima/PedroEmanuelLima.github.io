@@ -11,6 +11,8 @@ Acesse meu Linkedin [aqui](https://www.linkedin.com/in/pedro-emanuel-lima-de-alm
 
 - Curso de programação Básica
 - Curso de Marca Pessoal
+- Curso de Desenvolvimento de Website
+- Curso de Git e GitHub
 
 ## Liguagens de programação que gosto
 
