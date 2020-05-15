@@ -1,10 +1,5 @@
 # Pedro Emanuel Lima
 
-## Sobre
-
-Olá, eu sou o **Pedro Emanuel** e adoro _Git_ e _GitHub_.
-
-
 Acesse meu Linkedin [aqui](https://www.linkedin.com/in/pedro-emanuel-lima-de-almeida-b39a9019b/)
 
 ## Cursos que possuo certificado
@@ -13,12 +8,13 @@ Acesse meu Linkedin [aqui](https://www.linkedin.com/in/pedro-emanuel-lima-de-alm
 - Curso de Marca Pessoal
 - Curso de Desenvolvimento de Website
 - Curso de Git e GitHub
+- Curso de React
 
 ## Liguagens de programação que gosto
 
 ### Python
 
-A linguagem de programação que tenho mais afinidade, estou estudando essa liguagem a um ano, e já desenvolvi alguns sistemas exclusivamente com tal.
+A linguagem de programação que tenho mais afinidade, já desenvolvi alguns sistemas exclusivamente com essa linguagem.
 
 ## C
 
@@ -26,5 +22,4 @@ Liguagem na qual uso para estudar Estrutura de Dados, acho a inguagem bastante i
 
 ### JavaScript
 
-Não estou muito familiarizado com essa linguagem, visto que estou me embasando em sua semãntica e sintaxe recentemente.
-
+Linguagem que possuo mais afinidade atualmente, relisei vários cursos de libs/frameworks dessa linguagem, ao qual resultou alguns projetos.
